@@ -1,0 +1,57 @@
+# Большие файлы
+*.mp4
+*.avi
+*.mov
+*.zip
+*.rar
+*.7z
+*.exe
+*.dmg
+*.iso
+*.pdf
+*.bin
+*.db
+
+# Модели ИИ
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.onnx
+*.pkl
+*.h5
+
+# Системные файлы macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# Папки с большими файлами
+/models/
+/weights/
+/checkpoints/
+/datasets/
+/uploads/
+/downloads/
+/temp/
+/cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Логи
+*.log
+logs/
